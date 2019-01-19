@@ -4,4 +4,5 @@
 # https://vk.com/doc159233995_488733423?hash=46ba6fa86bfcf5813f&dl=060076f6627d7b4f15 (Курсовая)
 # https://ru.surveymonkey.com/r/G5GYDT2 (Тест по лабе,surveymonkey)
 # https://vk.com/doc159233995_488740123?hash=279b59eb43c63cc296&dl=4f19a427ba9ee15a8c (Сбор данных)
+# https://vk.com/doc159233995_488930360?hash=aa443085d0e0e9f791&dl=4234cdc742c8dd9753 (Нкря)
 # 
