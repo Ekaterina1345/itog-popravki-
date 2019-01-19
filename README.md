@@ -8,4 +8,4 @@
 # https://edu.vsu.ru/user/profile.php?id=62313 (Moodle Vsu)
 # http://levelpride.com/profile.php (Levelpride)
 # https://vk.com/doc159233995_488931752?hash=b2617c77d2e3e2a037&dl=32669f5fb444007e54 (Конспект)
-# 
+# https://vk.com/doc159233995_488937871?hash=89f682f6b2ee85a7e8&dl=541a8fb207e84d181b (Каталог)
