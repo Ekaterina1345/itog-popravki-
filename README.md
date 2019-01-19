@@ -7,3 +7,5 @@
 # https://vk.com/doc159233995_488930360?hash=aa443085d0e0e9f791&dl=4234cdc742c8dd9753 (Нкря)
 # https://edu.vsu.ru/user/profile.php?id=62313 (Moodle Vsu)
 # http://levelpride.com/profile.php (Levelpride)
+# https://vk.com/doc159233995_488931752?hash=b2617c77d2e3e2a037&dl=32669f5fb444007e54 (Конспект)
+# 
