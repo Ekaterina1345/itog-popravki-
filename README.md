@@ -6,3 +6,4 @@
 # https://vk.com/doc159233995_488740123?hash=279b59eb43c63cc296&dl=4f19a427ba9ee15a8c (Сбор данных)
 # https://vk.com/doc159233995_488930360?hash=aa443085d0e0e9f791&dl=4234cdc742c8dd9753 (Нкря)
 # https://edu.vsu.ru/user/profile.php?id=62313 (Moodle Vsu)
+# http://levelpride.com/profile.php (Levelpride)
