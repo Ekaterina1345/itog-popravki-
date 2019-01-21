@@ -17,10 +17,11 @@
 # https://vk.com/doc159233995_489235154?hash=8e97bcd38da1900fc1&dl=1fc36af98612bf690e (ООП)
 # https://vk.com/doc159233995_489232625?hash=9f04148fe9837da4c2&dl=09db4018754f62ee37 (Rus vectores)
 # параллельные корпуса
-
+# https://vk.com/doc159233995_489248809?hash=95dc3ea0dacdf0bf13&dl=23b2f3394bebad3ca4 (Визуализация)
 # https://vk.com/doc159233995_489243139?hash=3b7af7f1056e2f3eb9&dl=c32834155e3044e628 (Gephi)
 # https://vk.com/doc159233995_483525105?hash=dbc52495d7 (Scuuper Cleaner)
 # https://vk.com/doc159233995_483525095?hash=3769d74fcf (последняя лаба с excel)
 # https://vk.com/doc159233995_489244990?hash=92d7e041eefc56785d&dl=95f89ac27639881052 (изображения распознавания)
-#
+# https://vk.com/doc159233995_489246438?hash=9d80bdb7a5a4686c62&dl=475c732c7dbfc2b49c (Карты)
 # http://project1044572.tilda.ws/ (Сайт)
+# https://vk.com/doc159233995_485792031?hash=c7c07a5e361f7c8759&dl=28772cc0a8168e5e3e (урок)
