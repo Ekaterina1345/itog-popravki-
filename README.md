@@ -14,3 +14,6 @@
 # https://vk.com/doc159233995_489225770?hash=261513b5e9036cbe9a&dl=27fd9df54f4d831b0b (Ngram)
 # https://vk.com/doc159233995_489228277?hash=20189b9eaa2d72da73&dl=bd7d074e0852c3c3d9 (Sketch Engine)
 # https://vk.com/doc159233995_489230428?hash=66257b66e85475a752&dl=7fed44c3f74659834b (Antconc)
+# https://vk.com/doc159233995_489235154?hash=8e97bcd38da1900fc1&dl=1fc36af98612bf690e (ООП)
+# https://vk.com/doc159233995_489232625?hash=9f04148fe9837da4c2&dl=09db4018754f62ee37 (Rus vectores)
+#
