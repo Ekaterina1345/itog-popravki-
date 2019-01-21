@@ -16,4 +16,9 @@
 # https://vk.com/doc159233995_489230428?hash=66257b66e85475a752&dl=7fed44c3f74659834b (Antconc)
 # https://vk.com/doc159233995_489235154?hash=8e97bcd38da1900fc1&dl=1fc36af98612bf690e (ООП)
 # https://vk.com/doc159233995_489232625?hash=9f04148fe9837da4c2&dl=09db4018754f62ee37 (Rus vectores)
+# параллельные корпуса
+# https://vk.com/doc159233995_483525105?hash=dbc52495d7 (Scuuper Cleaner)
+# https://vk.com/doc159233995_483525095?hash=3769d74fcf (последняя лаба с excel)
 #
+#
+# http://project1044572.tilda.ws/ (Сайт)
