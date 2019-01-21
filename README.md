@@ -9,3 +9,5 @@
 # http://levelpride.com/profile.php (Levelpride)
 # https://vk.com/doc159233995_488931752?hash=b2617c77d2e3e2a037&dl=32669f5fb444007e54 (Конспект)
 # https://vk.com/doc159233995_488937871?hash=89f682f6b2ee85a7e8&dl=541a8fb207e84d181b (Каталог)
+# https://docs.google.com/forms/d/e/1FAIpQLSeHWV6jX13dE5kbXWvC5SGOSgdFhRcnk2-1omJVwDsV2nsqDQ/viewform?usp=sf_link (Google forms)
+# 
